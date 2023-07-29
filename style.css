@@ -1,0 +1,51 @@
+
+  .red-button {
+    background-color: rgb(248, 93, 93);
+    color: white;
+    position: absolute;
+    top: 10%;
+    left: 10%;
+  }
+  
+  .green-button {
+    background-color: rgb(109, 219, 109);
+    color: white;
+    position: absolute;
+    top: 10%;
+    right: 10%;
+  }
+  
+  .pink-button {
+    background-color: rgb(223, 127, 143);
+    color:  white;
+    position: absolute;
+    bottom: 10%;
+    left: 10%;
+  }
+  
+  .blue-button {
+    background-color: rgb(91, 151, 219);
+    color: white;
+    position: absolute;
+    bottom: 10%;
+    right: 10%;
+  }
+  
+  .purple-button {
+    background-color: rgb(177, 70, 177);
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  button{
+    width: 120px;
+    height: 60px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
